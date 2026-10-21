@@ -1,7 +1,7 @@
-Server Performance Stats
+# Server Performance Stats
 A simple Bash script that analyzes basic Linux server performance statistics and provides a quick system health report.
 
-Features
+## Features
 
 CPU Usage Monitoring
 Memory Usage Statistics
@@ -11,21 +11,21 @@ Load Average Monitoring
 Top CPU-Consuming Processes
 Top Memory-Consuming Processes
 
-h3 Technologies Used
+## Technologies Used
 
 Linux
 Bash Scripting
 Git
 GitHub
 
-h3 Project Structure
+## Project Structure
 
 Server-Performance-Stats/
 │
 ├── server-stats.sh
 └── README.md
 
-Installation
+## Installation
 
 Clone the repository:
 
@@ -37,7 +37,7 @@ Make the script executable:
 
 chmod +x server-stats.sh
 
-h3 Usage
+## Usage
 Run the script:
 
 ./server-stats.sh
@@ -62,7 +62,7 @@ Top CPU Processes:
 Top Memory Processes:
 ...
 
-h3 Learning Objectives
+## Learning Objectives
 
 This project helped me learn:
 
@@ -79,5 +79,5 @@ Add Colorful Output
 Export Reports to CSV
 Generate Health Status Summary
 
-Author
+### Author
 Lakshay
